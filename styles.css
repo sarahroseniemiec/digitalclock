@@ -1,0 +1,13 @@
+#mainbod {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 150px;
+  height: 100%;
+  width: 100%;
+}
+
+
+#clock {
+  text-align: center;
+  color: white;
+  line-height: 600px;
+}
